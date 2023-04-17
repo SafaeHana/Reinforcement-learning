@@ -1,2 +1,2 @@
-# pong Project for LSI Students 2022
+#Reinforcment learning 
 
